@@ -13,10 +13,15 @@ Reiterating, feel free to use this repository but completely at your own risk. I
 1. We need a data file in JSON format. The JSON data file should be an array of JSON objects (key-value pairs). Let me explain the meaning of each key. You can refer `stocks_data.json`,
 
 "name" - Name of the stock.
+
 "pe" - P/E ratio.
+
 "pb" - P/B ratio.
+
 "price" - Current share price of the stock.
+
 "market_value" - The current market value of your investment in this stock. In other words, value of your current holdings in this stock. If you haven't invested any amount yet, then set it `0`.
+
 "shares" - Current number of shares you hold in this stock.
 
 2. Set your target amount. By target amount I mean, what should be the final value of your portfolio. Say the market value of your portfolio is `x`. You want to invest an additional `y` amount. Then the target amount will be the sum of `x` and `y`, i.e., `x + y`. For example my portfolio size is `807736` and I want to invest `465545`. The target amount will be `1273281`.
