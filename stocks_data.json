@@ -1,0 +1,250 @@
+[
+    {
+        "name": "REC Limited",
+        "pe": 9.43,
+        "pb": 1.89,
+        "price": 524.05,
+        "market_value": 36684,
+        "shares": 70
+    },
+    {
+        "name": "SBI",
+        "pe": 10.70,
+        "pb": 1.79,
+        "price": 796.65,
+        "market_value": 37443,
+        "shares": 47
+    },
+    {
+        "name": "IRFC",
+        "pe": 30.83,
+        "pb": 3.91,
+        "price": 152.07,
+        "market_value": 0,
+        "shares": 0
+    },
+    {
+        "name": "Tata Chemicals",
+        "pe": 36.90,
+        "pb": 1.29,
+        "price": 1128.65,
+        "market_value": 21444,
+        "shares": 19
+    },
+    {
+        "name": "M&M",
+        "pe": 33.97,
+        "pb": 5.67,
+        "price": 3017.45,
+        "market_value": 63366,
+        "shares": 21
+    },
+    {
+        "name": "HDFC Bank",
+        "pe": 19.44,
+        "pb": 2.77,
+        "price": 1657.65,
+        "market_value": 24865,
+        "shares": 15
+    },
+    {
+        "name": "ICICI",
+        "pe": 20.64,
+        "pb": 3.46,
+        "price": 1239.75,
+        "market_value": 35953,
+        "shares": 29
+    },
+    {
+        "name": "Reliance",
+        "pe": 27.30,
+        "pb": 2.37,
+        "price": 2773.05,
+        "market_value": 36050,
+        "shares": 13
+    },
+    {
+        "name": "ITC",
+        "pe": 30.79,
+        "pb": 8.45,
+        "price": 503.55,
+        "market_value": 31220,
+        "shares": 62
+    },
+    {
+        "name": "Adani Port",
+        "pe": 31.94,
+        "pb": 5.77,
+        "price": 1413.70,
+        "market_value": 35343,
+        "shares": 25
+    },
+    {
+        "name": "Cipla",
+        "pe": 29.49,
+        "pb": 4.91,
+        "price": 1623.30,
+        "market_value": 37336,
+        "shares": 23
+    },
+    {
+        "name": "Sun Pharma",
+        "pe": 43.47,
+        "pb": 7.20,
+        "price": 1910.05,
+        "market_value": 45841,
+        "shares": 24
+    },
+    {
+        "name": "JSW Steel",
+        "pe": 36.34,
+        "pb": 3.26,
+        "price": 1033.75,
+        "market_value": 34114,
+        "shares": 33
+    },
+    {
+        "name": "IREDA",
+        "pe": 47.60,
+        "pb": 6.96,
+        "price": 221.66,
+        "market_value": 71596,
+        "shares": 323
+    },
+    {
+        "name": "CRISIL",
+        "pe": 49.42,
+        "pb": 14.29,
+        "price": 4399.05,
+        "market_value": 0,
+        "shares": 0
+    },
+    {
+        "name": "MARICO",
+        "pe": 58.66,
+        "pb": 23.24,
+        "price": 690.20,
+        "market_value": 18635,
+        "shares": 27
+    },
+    {
+        "name": "Hindustan Unilever",
+        "pe": 64.76,
+        "pb": 13.07,
+        "price": 2848.75,
+        "market_value": 25639,
+        "shares": 9
+    },
+    {
+        "name": "Bharti Airtel",
+        "pe": 76.61,
+        "pb": 11.39,
+        "price": 1640.90,
+        "market_value": 37741,
+        "shares": 23
+    },
+    {
+        "name": "VBL",
+        "pe": 77.63,
+        "pb": 21.93,
+        "price": 578.90,
+        "market_value": 54996,
+        "shares": 95
+    },
+    {
+        "name": "Pidilite",
+        "pe": 87.12,
+        "pb": 19.47,
+        "price": 3208.80,
+        "market_value": 35297,
+        "shares": 11
+    },
+    {
+        "name": "Titan",
+        "pe": 94.16,
+        "pb": 34.62,
+        "price": 3670.10,
+        "market_value": 33031,
+        "shares": 9
+    },
+    {
+        "name": "Tata Steel",
+        "pe": 65.09,
+        "pb": 2.26,
+        "price": 166.75,
+        "market_value": 38186,
+        "shares": 229
+    },
+    {
+        "name": "Angel One",
+        "pe": 20.03,
+        "pb": 7.89,
+        "price": 2661.70,
+        "market_value": 0,
+        "shares": 0
+    },
+    {
+        "name": "AGI Infra",
+        "pe": 22.73,
+        "pb": 5.38,
+        "price": 985.98,
+        "market_value": 17747,
+        "shares": 18
+    },
+    {
+        "name": "PFC",
+        "pe": 7.38,
+        "pb": 1.51,
+        "price": 463.35,
+        "market_value": 0,
+        "shares": 0
+    },
+    {
+        "name": "Indigo",
+        "pe": 22.86,
+        "pb": 89.43,
+        "price": 4609.35,
+        "market_value": 0,
+        "shares": 0
+    },
+    {
+        "name": "Jindal Steel and Power",
+        "pe": 18.72,
+        "pb": 2.36,
+        "price": 1021.10,
+        "market_value": 0,
+        "shares": 0
+    },
+    {
+        "name": "Bandhan Bank",
+        "pe": 11.71,
+        "pb": 1.40,
+        "price": 186.86,
+        "market_value": 19620,
+        "shares": 105
+    },
+    {
+        "name": "BSE",
+        "pe": 92.57,
+        "pb": 16.84,
+        "price": 4108.15,
+        "market_value": 0,
+        "shares": 0
+    },
+    {
+        "name": "Vedant Fashions",
+        "pe": 81.76,
+        "pb": 19.64,
+        "price": 1298.90,
+        "market_value": 0,
+        "shares": 0
+    },
+    {
+        "name": "Nestle",
+        "pe": 77.42,
+        "pb": 75.01,
+        "price": 2598.15,
+        "market_value": 15589,
+        "shares": 6
+    }
+]
